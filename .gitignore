@@ -1,0 +1,24 @@
+/ApiGateway/.mvn/wrapper/maven-wrapper.jar
+/ConfigServer/.mvn/wrapper/maven-wrapper.jar
+/HotelService/.mvn/wrapper/maven-wrapper.jar
+/RatingService/.mvn/wrapper/maven-wrapper.jar
+/ServiceRegistry/.mvn/wrapper/maven-wrapper.jar
+/UserService/.mvn/wrapper/maven-wrapper.jar
+/ApiGateway/.mvn/wrapper/maven-wrapper.properties
+/ConfigServer/.mvn/wrapper/maven-wrapper.properties
+/HotelService/.mvn/wrapper/maven-wrapper.properties
+/RatingService/.mvn/wrapper/maven-wrapper.properties
+/ServiceRegistry/.mvn/wrapper/maven-wrapper.properties
+/UserService/.mvn/wrapper/maven-wrapper.properties
+/microservices.pptx
+/microservices [Autosaved].pptx
+/ApiGateway/mvnw
+/ConfigServer/mvnw
+/RatingService/mvnw
+/ServiceRegistry/mvnw
+/UserService/mvnw
+/ApiGateway/mvnw.cmd
+/ConfigServer/mvnw.cmd
+/HotelService/mvnw.cmd
+/RatingService/mvnw.cmd
+/UserService/mvnw.cmd
